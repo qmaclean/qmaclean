@@ -4,7 +4,7 @@ Most of my work on github is sports analytics projects in R or Python across all
 ### Contest Submissions & Recognition
 - **2022 Big Data Bowl Honorable Mention**
 - *Evaluating Gunner's Performance*
-- Code: https://github.com/qmaclean/BDB_22
+- [Repo](https://github.com/qmaclean/BDB_22)
 - Recognition: https://nflcommunications.com/Pages/FINALISTS-NAMED-FOR-FOURTH-ANNUAL-NFL-BIG-DATA-BOWL-POWERED-BY-AWS.aspx
 
 - **2022 Big Data Cup Open Finalist (2nd Place)**
