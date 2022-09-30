@@ -1,5 +1,4 @@
 # Hi, I’m Quinn MacLean, Data Scientist
-Most of my work on github is sports analytics projects in R or Python across all sports
 
 ### Contest Submissions & Recognition
 - [**2022 Big Data Bowl Honorable Mention**](https://nflcommunications.com/Pages/FINALISTS-NAMED-FOR-FOURTH-ANNUAL-NFL-BIG-DATA-BOWL-POWERED-BY-AWS.aspx)
@@ -17,11 +16,11 @@ Most of my work on github is sports analytics projects in R or Python across all
 - Description: *Using Pose Detection model to measure kinematics and analyze QB throwing motion*
 
 [**Golf R Package**](https://github.com/qmaclean/golfR)
-- *Creating functions to scrape golf data (PGA, LPGA, LIV, etc.)*
+- *Description: Creating functions to scrape golf data (PGA, LPGA, LIV, etc.)*
 - **Could use help building out!**
 
 [**Football Bayesian Models**](https://github.com/qmaclean/football_bayesian)
-- *Created a Rushing Success Above Average and Passing Success Above Average using MCMC models*
+- *Description: Created a Rushing Success Above Average and Passing Success Above Average using MCMC models*
 
 ### Graduate School Capstone Project
 - [*Predicting "Bounceback" and Future Performance in the NHL*](https://arch.library.northwestern.edu/concern/parent/ks65hc477/file_sets/qf85nb595)
