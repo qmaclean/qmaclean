@@ -42,7 +42,7 @@ Code: https://github.com/qmaclean/PinWheelEmpire_Blazers
 - *Using Pose Detection model to measure kinematics and analyze QB throwing motion*
 - Code: https://github.com/qmaclean/football_computer_vision
 
-**Golf Package **
+**Golf R Package**
 - *Creating functions to scrape golf data (PGA, LPGA, LIV, etc.)*
 - Code: https://github.com/qmaclean/golfR
 - **Could use help building out!**
