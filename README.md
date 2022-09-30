@@ -17,7 +17,7 @@ Most of my work on github is sports analytics projects in R or Python across all
 - [*Creating a free agency strategy for the Los Angeles Lakers*](https://github.com/qmaclean/NBA_model)
 - [*NFL Win Probability Model*](https://github.com/qmaclean/NFL_WP_Analysis)
 
-### Consulting Work:
+### Past Consulting Work
 - [*Stumptown Analytics Dashboard Construction Samples for Sales Pursuits*](https://github.com/qmaclean/Stumpdown-Sample-Dashboards)
 - [*Pinwheel Empire (2021) Analytics for Twitter*] (https://github.com/qmaclean/PinWheelEmpire_Blazers)
 
