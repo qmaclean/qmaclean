@@ -3,12 +3,10 @@ Most of my work on github is sports analytics projects in R or Python across all
 
 ### Contest Submissions & Recognition
 - [**2022 Big Data Bowl Honorable Mention**](https://nflcommunications.com/Pages/FINALISTS-NAMED-FOR-FOURTH-ANNUAL-NFL-BIG-DATA-BOWL-POWERED-BY-AWS.aspx)
-- *Evaluating Gunner's Performance*
-- [Repo](https://github.com/qmaclean/BDB_22)
+    - [*Evaluating Gunner's Performance*](https://github.com/qmaclean/BDB_22)
 
 - [**2022 Big Data Cup Open Finalist (2nd Place)**](https://www.rotman.utoronto.ca/FacultyAndResearch/EducationCentres/TDMDAL/Events/BigDataCup071522)
-- *DPAA: A Bayesian Approach To Evaluating Special Teams Defending Play Performance*
-- [Repo](https://github.com/qmaclean/BDC22)
+    - [*DPAA: A Bayesian Approach To Evaluating Special Teams Defending Play Performance*](https://github.com/qmaclean/BDC22)
 
 
 ### Graduate School Capstone Project:
