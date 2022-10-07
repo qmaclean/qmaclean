@@ -19,6 +19,9 @@
 - *Description: Creating functions to scrape golf data (PGA, LPGA, LIV, etc.)*
 - **Could use help building out!**
 
+[**College Football Viz**](https://github.com/qmaclean/CFB_Analytics)
+- *Description: Random assortments of college football analytics*
+
 [**Football Bayesian Models**](https://github.com/qmaclean/football_bayesian)
 - *Description: Created a Rushing Success Above Average and Passing Success Above Average using MCMC models*
 
